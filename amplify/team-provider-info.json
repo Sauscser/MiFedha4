@@ -1,0 +1,24 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mifedha3-dev-2a062-authRole",
+      "UnauthRoleArn": "arn:aws:iam::870395359033:role/amplify-mifedha3-dev-2a062-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::870395359033:role/amplify-mifedha3-dev-2a062-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mifedha3-dev-2a062-deployment",
+      "UnauthRoleName": "amplify-mifedha3-dev-2a062-unauthRole",
+      "StackName": "amplify-mifedha3-dev-2a062",
+      "StackId": "arn:aws:cloudformation:us-east-1:870395359033:stack/amplify-mifedha3-dev-2a062/97e264b0-7410-11ef-82af-0affd5ec2d63",
+      "AmplifyAppId": "d36ooto02t11wd"
+    },
+    "categories": {
+      "auth": {
+        "mifedha32a5fbe29": {},
+        "userPoolGroups": {}
+      },
+      "api": {
+        "mifedha3": {}
+      }
+    }
+  }
+}
